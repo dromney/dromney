@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dromney
-- 👀 I’m interested in intergroup relations and conspiracy theories, MENA and SE Asia regions
-- 🌱 I’m currently learning how to use github.
-- 💞️ I don't know if I will be collaborating on here, but I want to learn how to use git.
+- 👀 I’m a professor at BYU who is interested in ethnic and religious politics and conspiracy theories in the Middle East/North Africa (MENA) and Southeast Asia regions
 - 📫 You can reach me at david.romney@byu.edu
 
 <!---
